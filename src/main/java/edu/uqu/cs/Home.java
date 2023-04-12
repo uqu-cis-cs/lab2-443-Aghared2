@@ -28,7 +28,7 @@ public class Home{
                 ad.addCar("Ford Fusion");
  	        // List all the cars in the garage once again. Hint: use method listCars () of class Garage
                 //HERE
-                System.out.println("All cars are there in garage:");
+                System.out.println("\nAll cars are there in garage:");
                 ad.listCars();
 
                // Move out "Ford Fusion" from the garage. Hint: use method moveOut () of class Garage
